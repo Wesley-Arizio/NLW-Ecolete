@@ -16,6 +16,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.21.1",
+    "node-pre-gyp": "^0.15.0",
+    "nodemon": "^2.0.4",
     "sqlite": "^4.0.10",
     "sqlite3": "^4.2.0",
     "ts-node-register": "^1.0.0"
